@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Full-Stack Developer | Problem Solver | Tech Enthusiast<br><br>🏆 Achievements<br>🥇 1st Place at Alpha Intern 2.0 Hackathon – Led a team of 4 to develop TeamForHack<br>🔧 Currently building a full-stack web application for automated college timetable generation<br>💡 What I Do<br>Full-Stack Development – MERN, Python, Django, PostgreSQL<br>Automation & Optimization – Love solving real-world problems with smart solutions<br>Hackathons & Innovation – Passionate about competitive coding and product development
+🚀 Full-Stack Developer| Ai&Ml Engineer | Problem Solver | Tech Enthusiast<br><br>🏆 Achievements<br>🥇 1st Place at Alpha Intern 2.0 Hackathon – Led a team of 4 to develop TeamForHack<br>🔧 Currently building a full-stack web application for automated college timetable generation<br>💡 What I Do<br>Full-Stack Development – MERN, Python, Django, PostgreSQL<br>Automation & Optimization – Love solving real-world problems with smart solutions<br>Hackathons & Innovation – Passionate about competitive coding and product development
 
 
 # 💻 Tech Stack:
